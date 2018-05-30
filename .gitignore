@@ -1,0 +1,9 @@
+*.tex
+*.tex~
+*.pdf
+*.class
+
+/db/
+/db_source_images/
+/input_images/
+/*.jpg
